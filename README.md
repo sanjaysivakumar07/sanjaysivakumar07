@@ -15,11 +15,11 @@
     <a href="mailto:sanjaysivakumar218@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Email-sanjaysivakumar218%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
     </a>
+    <a href="https://www.linkedin.com/in/sanjay-s-2757ba42a" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-Sanjay%20S-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
     <a href="https://github.com/sanjaysivakumar07" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-sanjaysivakumar07-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-    </a>
-    <a href="https://linkedin.com/in/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <img src="https://komarev.com/ghpvc/?username=sanjaysivakumar07&label=Profile%20Views&color=0ea5e9&style=flat-square" alt="Profile Views" />
   </p>
